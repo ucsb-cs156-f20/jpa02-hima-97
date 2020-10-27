@@ -4,6 +4,9 @@ Repo: https://github.com/ucsb-cs156-f20/jpa02-hima-97
 
 On Heroku: https://cs156-f20-hima-97-jpa02.herokuapp.com/
 
+On Codecov: https://codecov.io/gh/ucsb-cs156-f20/jpa02-hima-97
+
+
 # About this repo
 
 This is a minimal "Hello World" type webapp built with Spring Boot.
